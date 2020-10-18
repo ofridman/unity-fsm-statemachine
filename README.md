@@ -13,6 +13,14 @@ Uses reflection to avoid boiler plate code – only write the methods you actual
 Compatible with Coroutines.
 Tested on iOS and Android
 
-How to use it:
+<a href="https://axlplay.com/kb/unity3d-easy-finite-state-machine-c/" target="_blank">How to use it</a>
 
-https://axlplay.com/kb/unity3d-easy-finite-state-machine-c/
+
+
+
+
+<a href="https://www.upwork.com/fl/michellearias2" target="_blank">If you want to work with me</a>
+
+Cheers!
+
+Oliver
